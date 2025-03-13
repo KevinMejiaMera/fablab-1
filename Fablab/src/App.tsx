@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import FablabLogo from './assets/FablabLogo.svg'
+import FablabLogo from './Img/FablabLogo.svg'
 import './App.css'
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
           <img src={FablabLogo} className="logo" />
         </a>
       </div>
-      <h1>Site underconstruction</h1>
+      <h1>construction site</h1>
       <div className="card">
         <p>
         we are working
