@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import FablabLogo from './assets/FablabLogo.svg'
 import './App.css'
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
       <div>
       
         <a  target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src={FablabLogo} className="logo" />
         </a>
       </div>
       <h1>Site underconstruction</h1>
